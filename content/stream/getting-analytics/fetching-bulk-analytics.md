@@ -149,7 +149,7 @@ header: GraphQL response
 }
 ```
 
-About the response above:
+**About the response above:**
 
 *   Each object inside videoPlaybackEventsAdaptiveGroups represents one video
 *   uid property represents the video uid
