@@ -1,0 +1,19 @@
+src/nimbus/content.config.ts
+  s_6c9bb5acd8a7ce::t_f0bd354b9440b0 158-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e6f76d2b74cb4ca8a93b89c59591a1b082197748",
+  "prompts": {},
+  "sessions": {
+    "s_6c9bb5acd8a7ce": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07606c03bffegpfASd3JJffeDP",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "SebastiaanYN <sebastiaan@cloudflare.com>"
+    }
+  }
+}
